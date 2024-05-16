@@ -1,1 +1,1 @@
-Image Segmentation
+Image Segmentation Projects in Medical Images
